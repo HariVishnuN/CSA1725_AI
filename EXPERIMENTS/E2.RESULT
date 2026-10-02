@@ -1,0 +1,11 @@
+PS C:\Users\hari vishnu\OneDrive\Desktop\clg\22 AI\EXPERIMENTS\CSA1725_AI> cd EXPERIMENTS
+PS C:\Users\hari vishnu\OneDrive\Desktop\clg\22 AI\EXPERIMENTS\CSA1725_AI\EXPERIMENTS> python E2.py  
+Enter the number of Queens (enter 8 for 8-Queens): 8
+1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 1 0 
+0 0 0 0 1 0 0 0 
+0 0 0 0 0 0 0 1 
+0 1 0 0 0 0 0 0 
+0 0 0 1 0 0 0 0 
+0 0 0 0 0 1 0 0 
+0 0 1 0 0 0 0 0 
